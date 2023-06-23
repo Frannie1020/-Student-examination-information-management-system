@@ -80,9 +80,14 @@ Help screen:
 ![image](https://github.com/Frannie1020/Student-examination-information-management-system/assets/137517674/f16d04a4-e14b-436e-add6-620346ff165c)
 
 💡Thoughts
+
 1, in the design of the function class, the use of the loop structure can be more simple, in fact, the conditional judgment statement can be handled, do not need to use if ... else ... statement to write, can increase the efficiency of the algorithm.
+
 2、Learned to use object-oriented programming methods, learned the introduction of friend functions, private and public members, and also learned to encapsulate the principle of inheritance.
+
 3、When using virtual inheritance, learn to separate the permissions of different users.
+
 4、When writing to a file again, write the file in advance and carry out the necessary checks.
+
 5、When writing a program, it is more important to check the content after writing a paragraph to avoid frequent errors.
 
