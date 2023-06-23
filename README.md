@@ -19,7 +19,7 @@ In the student information management system, I have added a help screen and log
 
 The management system class also introduces the virtual inheritance function virtual, which allows for the selection of different user categories. 
 
-In summary, the functions we can implement are: 
+In summary, the functions I can implement are: 
 
 1: find student information, including name, class, number, gender and marks 
 
