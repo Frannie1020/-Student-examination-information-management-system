@@ -60,18 +60,23 @@ Sorting function:
 ![image](https://github.com/Frannie1020/Student-examination-information-management-system/assets/137517674/9f62a8b3-f77e-418d-bb69-1ac85aba959f)
 
 Modified functions:
+
 ![image](https://github.com/Frannie1020/Student-examination-information-management-system/assets/137517674/523493ff-b3b5-4100-87ca-d0ff99cebc6f)
 
 Delete function:
+
 ![image](https://github.com/Frannie1020/Student-examination-information-management-system/assets/137517674/f1f7c241-9862-4ae8-9d31-e7bd95fc5eeb)
 
 Added features:
+
 ![image](https://github.com/Frannie1020/Student-examination-information-management-system/assets/137517674/ee528fa7-73e5-49e1-a58f-ab23f2c4de3e)
 
 Storage function:
+
 ![image](https://github.com/Frannie1020/Student-examination-information-management-system/assets/137517674/00cacd59-3dd3-48a5-bab8-8e27518ef112)
 
 Help screen:
+
 ![image](https://github.com/Frannie1020/Student-examination-information-management-system/assets/137517674/f16d04a4-e14b-436e-add6-620346ff165c)
 
 💡Thoughts
