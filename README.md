@@ -1,7 +1,9 @@
 #  Student examination information management system
-💡Requirement analysis 1.1 Analysis of basic functional requirements
+💡Requirement analysis 
 
-1.1 Student achievement management system, need to achieve find, add, delete, sort and other functions, so as to achieve the output of student information about the function.
+1.1 Analysis of basic functional requirements
+
+Student achievement management system, need to achieve find, add, delete, sort and other functions, so as to achieve the output of student information about the function.
 
 The student performance management system needs to have a student information, management system category. 
 
